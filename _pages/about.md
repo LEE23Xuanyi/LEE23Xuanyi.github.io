@@ -9,8 +9,10 @@ redirect_from:
 
 I'm a third year undergraduate student from [CDHAW](https://cdhaw.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn/). My research interest includes intelligent robot, simulation learning, and machine learning.
 
+
+
 [Email](mailto:2252789@tongji.edu.cn) / [Github](https://github.com/LEE23Xuanyi)
 
-to see my [CV](../assets/CV.pdf)
+You can find my CV here [Ziming Wang's Curriculum Vitae](../assets/CV.pdf)
 
 
