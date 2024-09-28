@@ -13,6 +13,6 @@ I'm a third year undergraduate student from [CDHAW](https://cdhaw.tongji.edu.cn)
 
 [Email](mailto:2252789@tongji.edu.cn) / [Github](https://github.com/LEE23Xuanyi)
 
-You can find my CV here [Ziming Wang's Curriculum Vitae](../assets/CV.pdf)
+You can find my CV here [Ziming Wang's Curriculum Vitae](../assets/CV.pdf).
 
 
