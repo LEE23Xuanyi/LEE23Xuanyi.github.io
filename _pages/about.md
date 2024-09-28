@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [CDHAW](https://cdhaw.tongji.edu.cn)
 
 [Email](mailto:2252789@tongji.edu.cn) / [Github](https://github.com/LEE23Xuanyi)
 
-to see my [CV](.../_assets/CV.pdf)
+to see my [CV](.../assets/CV.pdf)
 
 
 Experience
