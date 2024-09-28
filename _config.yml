@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personalphoto.jpg"
+  avatar           : "personalphoto1.jpg"
   name             : "Ziming Wang"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineering"
@@ -121,10 +121,10 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+#google_site_verification :
+#bing_site_verification   :
+#alexa_site_verification  :
+#yandex_site_verification :
 
 
 # Social Sharing
